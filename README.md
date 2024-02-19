@@ -1,4 +1,4 @@
-# Mounting a Remote SMB Share on Ubuntu
+# Mounting a Remote SMB Share on Ubuntu 22 by Prime Murcia
 
 ## Installation
 
